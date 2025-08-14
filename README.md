@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou o João Vitor Chagas
 
-[cite_start]Estou sempre buscando aprimorar meus conhecimentos em Tecnologia[cite: 8]. [cite_start]Tenho bom relacionamento com trabalho em equipe usando a metodologia Scrum e meu propósito é buscar projetos desafiadores para desenvolver minha carreira e fazer a diferença na solução de problemas[cite: 8].
+Estou sempre buscando aprimorar meus conhecimentos em Tecnologia[cite: 8]. [cite_start]Tenho bom relacionamento com trabalho em equipe usando a metodologia Scrum e meu propósito é buscar projetos desafiadores para desenvolver minha carreira e fazer a diferença na solução de problemas.
 
 ---
 
@@ -15,7 +15,7 @@
 * Prototipagem de uma solução para análise de vazamentos em tubulações submersas, utilizando a biblioteca de visão computacional OpenCV.
 * Análise de dados e criação de gráficos para artigos científicos usando Python com a biblioteca Matplotlib.
 
-#### Desenvolvedor de Jogos | [cite_start]Startup Tinguá Games (Julho 2015 - Dezembro 2018)
+#### Desenvolvedor de Jogos | Startup Tinguá Games (Julho 2015 - Dezembro 2018)
 * Prototipagem de Jogos Mobile e Desktop.
 * Modelagem básica de cenário 3D.
 * Criação de códigos para implementação de mecânicas em jogos.
@@ -25,15 +25,15 @@
 
 ### 🎓 Formação Acadêmica
 
-* **Doutorado em Ciência da Computação** | [cite_start]UFF (2022-2026).
+* **Doutorado em Ciência da Computação** | UFF (2022-2026).
     * Área de concentração: Computação Visual.
     * [cite_start]Tema da tese: Análise Híbrida de Visão Computacional com IA e Gêmeos Digitais para Monitoramento de Embarcações não colaborativas.
 
-* **Mestrado em Ciência da Computação** | [cite_start]UFF (2019-2022).
+* **Mestrado em Ciência da Computação** | UFF (2019-2022).
     * Área de concentração: Computação Visual.
     * Tema da dissertação: Projeto de monitoramento e quantificação de vazamento de bolhas em poços de extração de petróleo offshore.
 
-* **Pós-Graduação em Gestão de Projeto e Negócios em TI** | [cite_start]IFRJ (2018-2021).
+* **Pós-Graduação em Gestão de Projeto e Negócios em TI** | IFRJ (2018-2021).
     * Área de concentração: Estudo de casos de projetos e suas especialidades.
     * Tema da monografia: Caso de estudo sobre métodos ágeis adotados por startups de desenvolvimento de jogos.
 
@@ -55,4 +55,10 @@
 * **LinkedIn:** /4945653081247141 
 * **GitHub:** /devjoaovsc 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsc&layout=large&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+  [![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorsc&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
