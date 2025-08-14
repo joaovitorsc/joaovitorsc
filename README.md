@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou o João Vitor Chagas
 
-Estou sempre buscando aprimorar meus conhecimentos em Tecnologia[cite: 8]. [cite_start]Tenho bom relacionamento com trabalho em equipe usando a metodologia Scrum e meu propósito é buscar projetos desafiadores para desenvolver minha carreira e fazer a diferença na solução de problemas.
+Estou sempre buscando aprimorar meus conhecimentos em Tecnologia. Tenho bom relacionamento com trabalho em equipe usando a metodologia Scrum e meu propósito é buscar projetos desafiadores para desenvolver minha carreira e fazer a diferença na solução de problemas.
 
 ---
 
