@@ -56,5 +56,7 @@ Estou sempre buscando aprimorar meus conhecimentos em Tecnologia[cite: 8]. [cite
 * **GitHub:** /devjoaovsc 
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
