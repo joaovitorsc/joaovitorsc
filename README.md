@@ -1,62 +1,40 @@
-### Olá! 👋 Eu sou o João Vitor Chagas
+Hi there! 👋 I'm João Vitor Chagas
+I am a Software Engineer and Ph.D. Candidate specializing in Visual Computing. I focus on solving complex problems using Computer Vision, AI, and Extended Reality (VR/AR).
 
-Estou sempre buscando aprimorar meus conhecimentos em Tecnologia. Tenho bom relacionamento com trabalho em equipe usando a metodologia Scrum e meu propósito é buscar projetos desafiadores para desenvolver minha carreira e fazer a diferença na solução de problemas.
+💻 Professional Experience
+Software Engineer (Mid-level) | Brazilian Navy (Aug 2023 – Present) * Developing VR Simulators and AR Port Monitoring systems.
 
----
+Implementing solutions involving Cryptography and Computer Vision.
 
-### 💻 Minhas Experiências
+Computer Vision Researcher | Petrobras (Sep 2020 – Jan 2022) * Prototyped underwater pipeline leak detection systems using OpenCV.
 
-#### Engenheiro de Software - Pleno | Marinha do Brasil (Agosto 2023 - Atualmente) 
-* Criação de Simuladores com Realidade Virtual.
-* Criação de um sistema com monitoramento em Portos usando Realidade Aumentada.
-* Experiência em Criptografia e Visão Computacional.
+Conducted data analysis and visualization for scientific research using Python (Matplotlib).
 
-#### Pesquisador de Visão Computacional | Petrobras (Setembro 2020 - Janeiro 2022)
-* Prototipagem de uma solução para análise de vazamentos em tubulações submersas, utilizando a biblioteca de visão computacional OpenCV.
-* Análise de dados e criação de gráficos para artigos científicos usando Python com a biblioteca Matplotlib.
+Game Developer | Tinguá Games Startup (Jul 2015 – Dec 2018) * Prototyped Mobile/Desktop games and implemented core mechanics in C#.
 
-#### Desenvolvedor de Jogos | Startup Tinguá Games (Julho 2015 - Dezembro 2018)
-* Prototipagem de Jogos Mobile e Desktop.
-* Modelagem básica de cenário 3D.
-* Criação de códigos para implementação de mecânicas em jogos.
+Executed 3D environment modeling and agile development (Scrum).
 
+🎓 Education
+Ph.D. in Computer Science | UFF (2022 – 2026)
 
----
+Focus: Computer Vision, AI, and Digital Twins for maritime monitoring.
 
-### 🎓 Formação Acadêmica
+M.Sc. in Computer Science | UFF (2019 – 2022)
 
-* **Doutorado em Ciência da Computação** | UFF (2022-2026).
-    * Área de concentração: Computação Visual.
-    * [cite_start]Tema da tese: Análise Híbrida de Visão Computacional com IA e Gêmeos Digitais para Monitoramento de Embarcações não colaborativas.
+Focus: Visual computing for offshore oil leak quantification.
 
-* **Mestrado em Ciência da Computação** | UFF (2019-2022).
-    * Área de concentração: Computação Visual.
-    * Tema da dissertação: Projeto de monitoramento e quantificação de vazamento de bolhas em poços de extração de petróleo offshore.
+Postgrad in IT Project Management | IFRJ (2018 – 2021)
 
-* **Pós-Graduação em Gestão de Projeto e Negócios em TI** | IFRJ (2018-2021).
-    * Área de concentração: Estudo de casos de projetos e suas especialidades.
-    * Tema da monografia: Caso de estudo sobre métodos ágeis adotados por startups de desenvolvimento de jogos.
+Focus: Agile methodologies in game development.
 
----
+🛠️ Tech Stack & Languages
+Core: C#, Python, OpenCV, Unity, VR/AR, Scrum.
 
-### 🛠️ Habilidades e Conhecimentos
+Languages: Portuguese (Native), English (Intermediate), Spanish (Intermediate), Japanese (Basic).
 
-* **Habilidades Técnicas:** AR, VR, C#.
-* **Idiomas:**
-    * Espanhol: Intermediário.
-    * Inglês: Intermediário.
-    * Japonês: Básico.
+📞 Connect with me
+Email: joaovsc@id.uff.br
 
----
+LinkedIn: linkedin.com/in/joaovitorchagas
 
-### 📞 Entre em Contato
-
-* **E-mail:** joaovsc@id.uff.br 
-* **LinkedIn:** /4945653081247141 
-* **GitHub:** /devjoaovsc 
-
-<div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+GitHub: @devjoaovsc
