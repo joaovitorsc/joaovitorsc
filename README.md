@@ -40,5 +40,3 @@ Languages: Portuguese (Native), English (Intermediate), Spanish (Intermediate), 
 Email: joaovsc@id.uff.br
 
 LinkedIn: linkedin.com/in/joaovitorchagas
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsc&layout=compact&theme=dark" alt="Top Languages" /> </div>
