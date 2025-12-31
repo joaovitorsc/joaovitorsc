@@ -41,4 +41,4 @@ Email: joaovsc@id.uff.br
 
 LinkedIn: linkedin.com/in/joaovitorchagas
 
-GitHub: @devjoaovsc
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsc&layout=compact&theme=dark" alt="Top Languages" /> </div>
